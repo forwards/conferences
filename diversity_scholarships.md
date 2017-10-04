@@ -6,8 +6,10 @@
 
 ## Tips for Applicants
 
- - If you've had another scholarship in the past year, please sit this one out, and allow someone else to have an opportunity for 
- assistance.
+ - Check whether the funder has a policy on awarding scholarships to people that attended under a scholarship previously, or who have had another scholarship in the past year. 
+ 
+     - If there is a clear exclusion and this applies to you, please sit this one out, and allow someone else to have an opportunity for assistance.
+     - Otherwise, disclose any scholarships as requested, but don't let previous success hold you back from applying.
 
  - Be as specific as possible - don't make the reviewers guess or infer things.
      
