@@ -23,8 +23,23 @@
  
  - Give evidence of your commitment to the field/community.
  
-     Demonstrate that this is a real interest and that you are in it for the long term.
+     Demonstrate that this is a real interest and that you are in it for the long term, for example, for an R conference you might mention
+      - R courses you have taken.
+      - How you use R in your work.
+      - Articles/blog posts where you have used R.
+      - Contributions you have made to publicly available packages.
+      - Involvement in R-ladies, an R User Group or other R-related initiative.
  
  - Explain how you will pay it forwards
  
-     How will you share what you have learned? Let the committee know how their investment in you will have a wider impact.
+     How will you share what you have learned? Let the committee know how their investment in you will have a wider impact. For example, for an R conference you might
+     - Commit to writing a blog post. Evidence of previously blogging about R would be an advantage.
+     - Commit to live tweeting to share conference highlights with the R community. Evidence of doing this for previous conferences, or using your Twitter account to share insights about R would be an advantage.
+     - Commit to presenting a talk or workshop at your workplace/R user group. Prior experience of giving such presentations would be an advantage.
+     - Discuss how you hope to integrate new R developments into your courses.
+     - Describe your existing mentoring roles and discuss how up-to-date knowledge of R would be beneficial in these roles.
+     - Discuss how a specific conference tutorial will facilitate work in progress that will be shared with the community.
+     
+- Make your application stand out by adding in some flavour about your personal journey in R 
+
+    How did you get to this point? What is your motivation for applying? Without making your application too lengthy, paint the reader a picture of who you are, and why you deserve funding.     
