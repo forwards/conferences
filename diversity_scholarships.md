@@ -20,14 +20,23 @@
  
      - When looking for airfare, look for the cost for coach. 
      - Don't leave any costs out. Let the committee decide if the cost is reasonable and can be covered by the scholarship.
+     
+ - Evidence your technical competence.
  
- - Give evidence of your commitment to the field/community.
+     Provide links to an online portfolio of work. For an R conference, reviewers will be looking to establish a base level of R competence and evidence that you are developing your R skills. Your portfolio might include:
+      - Coursework showing individual work.
+      - Analysis scripts.
+      - Articles/blog posts that show your code.
+      - Presentations or tutorials with code that you have written.
+      - A Shiny app. 
+      - Contributions you have made to publicly available packages.
+ 
+ - Evidence of your commitment to the field/community.
  
      Demonstrate that this is a real interest and that you are in it for the long term, for example, for an R conference you might mention
       - R courses you have taken.
       - How you use R in your work.
       - Articles/blog posts where you have used R.
-      - Contributions you have made to publicly available packages.
       - Involvement in R-ladies, an R User Group or other R-related initiative.
  
  - Explain how you will pay it forwards
