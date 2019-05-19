@@ -23,7 +23,7 @@ Wednesday
 - 09:30 - 11:00 Conference sessions
 - **11:00 - 11:30 Google Hangout with Julia Stewart Lowndes?**
 - 11:30 - 13:00 Conference sessions, potentially ending with Community session (conferences & meetups)
-- **13:00 - 14:00 satRdays lunch meeting // RUG organizers meeting // R-LGBTQ **
+- **13:00 - 14:00 satRdays lunch meeting // RUG organizers meeting // R-LGBTQ**
 - 14:00 - 15:00 Conference sessions
 - **15:00 - 15:30 Diversity scholar coffee meetup**
 - 15:30 - 17:15 Conference sessions
@@ -33,7 +33,7 @@ Thursday
 
 - 09:30 - 11:00 Conference sessions
 - **11:00 - 11:30 Google Hangout with Joe Cheng?**
-- 11:30 - 13:00 Conference sessions, potentially ending with Community session (contribution & collaboration)
+- 11:30 - 13:00 Conference sessions
 - **13:00 - 14:00 R-Ladies lunch**
 - 14:00 - 17:15 Conference sessions
 - 19:00 - 11:00 Conference dinner
@@ -42,7 +42,7 @@ Friday
 
 - 09:30 - 11:00 Conference sessions
 - **11:00 - 11:30 Google Hangout with Julien Cornbiese?**
-- 11:30 - 13:00 Conference sessions
+- 11:30 - 13:00 Conference sessions, potentially ending with Community session (contribution & collaboration)
 - **13:00 - 14:00 Combined community organizers meeting (RLadies, RUGs, XRUMs, satRdays, RLGBTQ, africaR, LatinR, R4DS)**
 - 14:00 - 15:15 Conference sessions, including closing remarks
 - 15:15 - 16:00 Coffee break
