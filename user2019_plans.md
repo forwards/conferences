@@ -2,48 +2,49 @@
 
 ## Schedule
 
-Suggest newbie session and diversity scholar meet and greet before tutorial day, though Tuesday evening may 
-also be free. All coffee breaks (one in morning and one in afternoon) plus lunch potentially free for meetings 
-but probably best to have these on conference days (Wed - Fri) as tutorial day is optional.
+Details of meetings are given in later sections!
 
 Monday July 8
 
-- **09:00 - 17:00 Forwards + friends meeting**
-- **17:30 - 18:00 Diversity scholar meet and greet (TBC)**
-- **18:00 - 19:00 Newbie session (TBC)**
+- **09:00 - 12:30 Forwards + friends meeting (part 1)** Room: de Marmier. Organiser: Heather Turner
+- 12:30-13:30 Lunch
+- **13:30 - 17:00 Forwards + friends meeting (part 2)** Room: de Marmier. Organiser: Kevin O'Brien/Noa Tamir
+- 16:00 - 18:00 (Overlapping! soft drinks reception)
+- **17:15 - 17:45 Diversity scholar meet and greet** Room: Spot. Organiser: Julie Josse (Room is available 17:00 - 18:00).
+- **18:00 - 19:00 Newbie session** Room: Cassiopée. Organiser: Julie Josse
 - 19:00 - xx:xx Informal gatherings for food/drinks in Toulouse
 
 Tuesday
 
 - 09:00 - 17:30 Tutorials
-- 18:00 -       Potential free time?? (HT to check)
+- 18:00 - ?? Welcome reception, tickets first come, first served (max 500).  **RUG organizers informal meeting**
 
 Wednesday
 
 - 09:30 - 11:00 Conference sessions
-- **11:00 - 11:30 Google Hangout with Julia Stewart Lowndes?**
-- 11:30 - 13:00 Conference sessions, potentially ending with Community session (conferences & meetups)
-- **13:00 - 14:00 satRdays lunch meeting // RUG organizers meeting // R-LGBTQ**
+- 11:00 - 11:30 Coffee
+- 11:30 - 13:00 Conference sessions
+- **13:00 - 14:00 R-Ladies lunch** Room: Reserved part of lunch area. Organiser: R-Ladies/Local committee.
 - 14:00 - 15:00 Conference sessions
-- **15:00 - 15:30 Diversity scholar coffee meetup**
+- **15:00 - 15:30 Diversity scholar coffee meetup** Room: TBA. Organiser: Julie Josse
 - 15:30 - 17:15 Conference sessions
 - 19:00 - 11:00 Conference dinner
 
 Thursday
 
 - 09:30 - 11:00 Conference sessions
-- **11:00 - 11:30 Google Hangout with Joe Cheng?**
-- 11:30 - 13:00 Conference sessions
-- **13:00 - 14:00 R-Ladies lunch**
+- 11:00 - 11:30 Coffee
+- 11:30 - 13:00 Conference sessions, including Community session with satRdays panel at end
+- **13:00 - 14:00 satRdays lunch meeting** Room: Concorde 1+2. Organiser: Noa Tamir (Allow for sounds checks from 13:45).
 - 14:00 - 17:15 Conference sessions
 - 19:00 - 11:00 Conference dinner
 
 Friday
 
 - 09:30 - 11:00 Conference sessions
-- **11:00 - 11:30 Google Hangout with Julien Cornbiese?**
-- 11:30 - 13:00 Conference sessions, potentially ending with Community session (contribution & collaboration)
-- **13:00 - 14:00 Combined community organizers meeting (RLadies, RUGs, XRUMs, satRdays, RLGBTQ, africaR, LatinR, R4DS)**
+- 11:00 - 11:30 Coffee
+- 11:30 - 13:00 Conference sessions, including Contribution & Collaboration session
+- **13:00 - 14:00 Combined community organizers meeting (RLadies, RUGs, XRUMs, satRdays, RLGBTQ, africaR, LatinR, R4DS)** Room: TBA. Organiser: Kevin O'Brien
 - 14:00 - 15:15 Conference sessions, including closing remarks
 - 15:15 - 16:00 Coffee break
 
@@ -54,40 +55,44 @@ Flexible time to work on Forwards-related tasks. More details and sign-up here: 
 - Coffee and lunch with Tidyverse developers day
 - Expecting ~15 people at most
 
+AGENDA
+ - Building up teams (advertise vacant positions if not done yet)
+ - Update & work on tasks
+ 
 ACTIONS
  - Attendees to look over tasks nearer time to prioritise tasks to work on (ALL)
 
-## Diversity scholar meet and greet
+## Diversity scholar meet and greet; coffee meet-up
 
 - Expect ~25 scholars + ~15 conference buddies/Forwards folk
+- Edgar Enriquez will come at the beginning of the session to explain the modalities of reimbursement for diversity scholars.
 
 ACTIONS
- - Arrange time, place, possible refreshments with oragnisers (HT)
- - Organise conference buddies to attend (NT/KO)
+ - Organise diversity scholars to attend (JJ)
+ - Organise conference buddies to attend (NT)
  
 ## Newbie session
 
-Expect ~200 people (most from tidyverse dev day, diversity scholars, other newbies arriving later, buddies).
+Expect ~300 people (most from tidyverse dev day, diversity scholars, other newbies arriving later, buddies).
 
 ACTIONS
-- Check if we can use venue, if catering might be provided (HT)
-- Arrange program (JJ?)
+- Arrange program (JJ)
 
-## Conference Buddies 
+## Combined community organizers meeting
 
-10-15 folk to buddy up with diversity scholars/anyone requiring support to navigate conference and feel welcome.
+Expect ~ 50 organizers from community groups
 
-ACTIONS
- - Gather volunteers (NT/K0)
- - Lookup instructions from last year (HT)
- - Arrange lanyards/other identifiers (HT)
-
-## Google Hangouts with keynotes
-
-New idea based on https://www.exordo.com/blog/virtually-connecting/
+AGENDA
+ - vacant positions on Forwards
+ - help for R-LGBTQ: get website, Slack invite working; more active Twitter etc
+ - help for AfricaR: website?, "talk recycling" scheme
+ - ideas for venues/organizers for satRdays (should be discussed in Thursday meeting, report back here)
 
 ACTIONS
- - Arrange speakers willing to chat, time and place (HT)
- - Set up calls (HT?)
- - Chair the chat (DS?)
-
+ - Choose chair (KO)
+ - Invite people
+     - RUGS, XRUMs, satRdays, africaR (KO - via RUG Slack)
+     - RLadies (HT)
+     - RLGBTQ (KO?)
+     - LatinR (HT)
+     - R4DS (??)
