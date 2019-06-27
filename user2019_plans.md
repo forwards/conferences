@@ -17,7 +17,7 @@ Monday July 8
 Tuesday
 
 - 09:00 - 17:30 Tutorials
-- 18:00 - ?? Welcome reception, tickets first come, first served (max 500).  **RUG organizers informal meeting**
+- 18:00 - ?? Welcome reception, tickets first come, first served (max 500).
 
 Wednesday
 
