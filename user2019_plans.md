@@ -56,8 +56,8 @@ Flexible time to work on Forwards-related tasks. More details and sign-up here: 
 - Expecting ~15 people at most
 
 AGENDA
- - Building up teams (advertise vacant positions if not done yet)
- - Update & work on tasks
+
+See: http://developer.r-project.org:9001/p/yhk22hWTab
  
 ACTIONS
  - Attendees to look over tasks nearer time to prioritise tasks to work on (ALL)
@@ -78,15 +78,17 @@ Expect ~300 people (most from tidyverse dev day, diversity scholars, other newbi
 ACTIONS
 - Arrange program (JJ)
 
+## satRdays meeting
+
+AGENDA
+See: http://developer.r-project.org:9001/p/XOW59KFA1p
+
 ## Combined community organizers meeting
 
 Expect ~ 50 organizers from community groups
 
 AGENDA
- - vacant positions on Forwards
- - help for R-LGBTQ: get website, Slack invite working; more active Twitter etc
- - help for AfricaR: website?, "talk recycling" scheme
- - ideas for venues/organizers for satRdays (should be discussed in Thursday meeting, report back here)
+See: http://developer.r-project.org:9001/p/r4cZzJpEDD
 
 ACTIONS
  - Choose chair (KO)
