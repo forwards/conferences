@@ -24,9 +24,9 @@ Wednesday
 - 09:30 - 11:00 Conference sessions
 - 11:00 - 11:30 Coffee
 - 11:30 - 13:00 Conference sessions
-- **13:00 - 14:00 R-Ladies lunch** Room: Reserved part of lunch area. Organiser: R-Ladies/Local committee.
+- **13:00 - 14:00 R-Ladies lunch** Room: Reserved part of lunch area (foyer Saint-Exupéry). Organiser: R-Ladies/Local committee.
 - 14:00 - 15:00 Conference sessions
-- **15:00 - 15:30 Diversity scholar coffee meetup** Room: TBA. Organiser: Julie Josse
+- **15:00 - 15:30 Diversity scholar coffee meetup** Room: Spot. Organiser: Julie Josse
 - 15:30 - 17:15 Conference sessions
 - 19:00 - 11:00 Conference dinner
 
@@ -35,7 +35,7 @@ Thursday
 - 09:30 - 11:00 Conference sessions
 - 11:00 - 11:30 Coffee
 - 11:30 - 13:00 Conference sessions, including Community session with satRdays panel at end
-- **13:00 - 14:00 satRdays lunch meeting** Room: Concorde 1+2. Organiser: Noa Tamir (Allow for sounds checks from 13:45).
+- **13:00 - 14:00 satRdays lunch meeting** Room: Spot. Organiser: Noa Tamir (Allow for sounds checks from 13:45).
 - 14:00 - 17:15 Conference sessions
 - 19:00 - 11:00 Conference dinner
 
@@ -44,7 +44,7 @@ Friday
 - 09:30 - 11:00 Conference sessions
 - 11:00 - 11:30 Coffee
 - 11:30 - 13:00 Conference sessions, including Contribution & Collaboration session
-- **13:00 - 14:00 Combined community organizers meeting (RLadies, RUGs, XRUMs, satRdays, RLGBTQ, africaR, LatinR, R4DS)** Room: TBA. Organiser: Kevin O'Brien
+- **13:00 - 14:00 Combined community organizers meeting (RLadies, RUGs, XRUMs, satRdays, RLGBTQ, africaR, LatinR, R4DS)** Room: Ariane 1 + 2. Organiser: Kevin O'Brien
 - 14:00 - 15:15 Conference sessions, including closing remarks
 - 15:15 - 16:00 Coffee break
 
