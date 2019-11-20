@@ -16,3 +16,4 @@ How-tos
   - CoC Response team: resources, timeline for prep, how to prep
   - CoC nudging: language for CoC nudges for attendees, speakers, invited speakers, volunteers, including when/where to include it (invitation, prep, meetings)
   - Scholarships: announcement tweets/slack messages, r-ladies evaluation support, privacy considerations, timeline
+  - Accessiblity: incorporate Liz's recomendations
