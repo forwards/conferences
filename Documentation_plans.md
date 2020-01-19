@@ -3,7 +3,7 @@ Temp list of tasks to make the conferences' team work more re-usable for useR! o
 General
 - Introduction of Forwards for future organisers
   - Conferences team 
-  - Survey Team
+  - Survey Team (HT)
 - DEI nudges for orga teams
   - Program considerations invited keynote speakers, session chairs, invited/selected tutotial, channels and language to promote CfP
   - 
@@ -15,5 +15,5 @@ How-tos
   - Newbie event: topics, invitations for speakers, announcement tweets/slack messages, room setup
   - CoC Response team: resources, timeline for prep, how to prep
   - CoC nudging: language for CoC nudges for attendees, speakers, invited speakers, volunteers, including when/where to include it (invitation, prep, meetings)
-  - Scholarships: announcement tweets/slack messages, r-ladies evaluation support, privacy considerations, timeline
+  - Scholarships: announcement tweets/slack messages, r-ladies evaluation support, privacy considerations, timeline (HT)
   - Accessiblity: incorporate Liz's recomendations
