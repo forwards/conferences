@@ -10,9 +10,9 @@ General
 
 How-tos
 - How-to template: how many people does it take, what does orga team need to provide, how early do you need ot start, previous process, example of previous resources
-  - Buddies: sign up forms, announcement tweet and slack message, sample communication emails to buddies and scholars, provide: room to meet, way to identify buddies
+  - [How to organise the useR! Conference Buddies](https://github.com/forwards/conferences/blob/master/How-to:%20Conference%20Buddies.md)
   - Socials: rooms, announcement tweets/slack messages, communities to accomodate: scholarship, newbies, R-Ladies, Forwards, RainbowR, RUGs, satRdays, X-UG organisers, 
-  - Newbie event: topics, invitations for speakers, announcement tweets/slack messages, room setup
+  - [How to organise the useR! Forwards Newbie Session](https://github.com/forwards/conferences/blob/master/How-to:%20Newbie%20Session.md)
   - CoC Response team: resources, timeline for prep, how to prep
   - CoC nudging: language for CoC nudges for attendees, speakers, invited speakers, volunteers, including when/where to include it (invitation, prep, meetings)
   - Scholarships: announcement tweets/slack messages, r-ladies evaluation support, privacy considerations, timeline (HT)
