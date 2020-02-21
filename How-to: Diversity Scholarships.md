@@ -34,6 +34,8 @@ Make all fields mandatory to ensure all relevant information is provided. Limit 
 
 Make sure the server use and location comply with with data protection regulation.
 
+[Example of forms used previously](https://github.com/forwards/conferences/blob/master/DS_form.MD)
+
 <h4> Create coordinating/contact team </h4>
 
 Appoint 2-3 people from the diversity team (and/or conference organizers) to handle logistics during and after application phase. Tasks include:
