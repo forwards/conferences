@@ -2,7 +2,9 @@
 
 ## Who is this for?
 
-Seesion chairs, and tutorial teachers, as they both need to react to speaker and audience during the talks and Q&A
+Seesion chairs as they need to react to speaker and audience during the talks and Q&A. 
+
+Please consider who can fullfil this role for tutorials if they do not have a session chair.
 
 ## Why is this imporatnt to inform session chairs?
 
