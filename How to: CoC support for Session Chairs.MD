@@ -15,7 +15,7 @@ Due to the Bystander effect, it is likely that your audience will feel less empo
 
 All of them should read and understand the conference's Code of Conduct. 
 They should be made aware that part of their role is to safe guard everyone present, and the atmosphere of the event, by minimising the potential impact of a code of conduct violation that happens in public during their session.
-We would like them to follow our [Code of Conduct guidelines for session chairs](https://github.com/forwards/foundation/blob/7fe098d0fd82902c91449160487c90f768e4f39c/coc_policy/guidelines.md).
+We would like them to follow our prelimenary [Code of Conduct guidelines for session chairs](https://github.com/forwards/foundation/blob/7fe098d0fd82902c91449160487c90f768e4f39c/coc_policy/guidelines.md).
 We expect that they are prepared to stop severe Code of Conduct violations and know how to support attendees that may address them with CoC concerns before, during, or after, their session.
 We do not expect them to monitor or critique everyone's speech or actions. Nor do we expect them to take on the role of the CoC Response team.
 
