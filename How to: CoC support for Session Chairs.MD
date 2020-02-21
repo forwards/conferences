@@ -33,3 +33,15 @@ Any responses with follow up questions or clarifications can then be addressed b
 
 In the past, we addressed session chairs responses when they had concerns, e.g. there was a concern that it relies on the chair's opinion, in which case we clarified that this is true for general chairing duties and underlined that the actions should be moderate (a caution) unless the CoC violation is severe (e.g. targeted harassment).
 
+### Example from useR!2019
+The following was a section in the information email sent out to session chairs:
+
+"Code of conduct (CoC)
+
+Please familiarise yourself with the code of conduct: http://www.user2019.fr/coc/.
+
+Any code of conduct violation that happens in your session should be reported to the response team, even if you addressed it during the session. This helps to monitor the effectiveness of the code of conduct enforcement and allows the team to decide if any further action is necessary, e.g. making a general announcement to remind people of the code of conduct or to support any action you took.
+
+Feel free, but not obliged, to interrupt the speaker to give a warning in the event of a code of conduct violation. If relevant, the screen may be blanked and offending slides skipped. Interrupting may not always be appropriate or feasible - the violation may be a minor gaffe, you may not respond quickly enough or be at some distance from the speaker, or the presentation may be a lightning talk. In such cases, you may apologize to the audience at the end of the talk/session that a violation occurred and state that this incident will be followed up after the session.
+
+The CoC team are identified with a blue arm band during the conference and may be contacted at coc@user2019.fr."
