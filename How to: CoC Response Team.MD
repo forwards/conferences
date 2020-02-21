@@ -7,6 +7,7 @@
 define the team, set up the email, set up how to identify and introduce the team, prepare the team, orga team vs. volunteer team with orga point of contact
 
 ## Resources to prepare team members
+- [R Foundation CoC Policy](https://www.r-project.org/coc-policy.html)
 - [Forwards Guidelines](https://github.com/forwards/foundation/blob/7fe098d0fd82902c91449160487c90f768e4f39c/coc_policy/guidelines.md#handling-code-of-conduct-violations-during-sessions) for Code of Conduct Policy. 
 - This [CoC Response ebook](https://frameshiftconsulting.com/code-of-conduct-book/) contains many useful case studies. Previous team members found it useful to read it before the event.
 - Forwards can share annonimized previous reports with the team, but they are nto for public circulation.
