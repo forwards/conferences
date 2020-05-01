@@ -8,7 +8,7 @@ Please feel free to use our resources for your R community events!
 You can reach out to us if you have questions on how to set up similar Diversity, Equity, and Inclusion (DEI) initiatives for your R Community events.
 We would also love to hear from you if you can recommend new  DEI initiatives, resources, or contacts you think might be relevant to useR!
 
-## How you can work with us?
+## How can you work with us?
 Once the useR! organising committee has been established, the R Foundation will let the conferences team know and we will appoint a point of contact for the event to facilitate communication.
 
 We find it useful to have the organisers get to know our knowledge base, and do an intro call with the point of contact early on.
