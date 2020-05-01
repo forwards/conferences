@@ -13,7 +13,7 @@ How-tos
   - [How to organise the useR! Conference Buddies](https://github.com/forwards/conferences/blob/master/How-to:%20Conference%20Buddies.md)
   - [Community social events](https://github.com/forwards/conferences/blob/master/How%20to:%20Community%20Events.md)
   - [How to organise the useR! Forwards Newbie Session](https://github.com/forwards/conferences/blob/master/How-to:%20Newbie%20Session.md)
-  - CoC Response team: resources, timeline for prep, how to prep
+  - [CoC Response team](https://github.com/forwards/conferences/blob/master/How%20to:%20CoC%20Response%20Team.MD)
   - [How to instruct Session Chairs on CoC response](https://github.com/forwards/conferences/blob/master/How%20to:%20CoC%20support%20for%20Session%20Chairs.MD)
   - [How to organise useR! Diversity scholaships](https://github.com/forwards/conferences/blob/master/How-to:%20Diversity%20Scholarships.md)
   - Accessiblity: incorporate Liz's recomendations
