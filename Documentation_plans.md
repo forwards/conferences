@@ -1,9 +1,7 @@
 Temp list of tasks to make the conferences' team work more re-usable for useR! organisers
 
 General
-- Introduction of Forwards for future organisers
-  - Conferences team 
-  - Survey Team (HT)
+- [Introduction of our team for future organisers](https://github.com/forwards/conferences/blob/master/Introduction%20to%20the%20Forwards%20Conferences%20Team.md)
 - DEI nudges for orga teams
   - Program considerations invited keynote speakers, session chairs, invited/selected tutotial, channels and language to promote CfP
   - 
