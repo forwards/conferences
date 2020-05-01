@@ -11,7 +11,7 @@ General
 How-tos
 - How-to template: how many people does it take, what does orga team need to provide, how early do you need ot start, previous process, example of previous resources
   - [How to organise the useR! Conference Buddies](https://github.com/forwards/conferences/blob/master/How-to:%20Conference%20Buddies.md)
-  - Socials: rooms, announcement tweets/slack messages, communities to accomodate: scholarship, newbies, R-Ladies, Forwards, RainbowR, RUGs, satRdays, X-UG organisers, 
+  - [Community social events](https://github.com/forwards/conferences/blob/master/How%20to:%20Community%20Events.md)
   - [How to organise the useR! Forwards Newbie Session](https://github.com/forwards/conferences/blob/master/How-to:%20Newbie%20Session.md)
   - CoC Response team: resources, timeline for prep, how to prep
   - [How to instruct Session Chairs on CoC response](https://github.com/forwards/conferences/blob/master/How%20to:%20CoC%20support%20for%20Session%20Chairs.MD)
