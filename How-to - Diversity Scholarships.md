@@ -28,13 +28,13 @@ fees covered?)
 
 <h4> Application form and portal </h4>
 
-No consistent form/portal used in the past years. Solutions from the past years: <i>LimeSurvey</i>, university internal portal.
+No consistent form/portal used in the past years. Solutions from the past years: R Foundation <i>LimeSurvey</i>, university internal portal.
 
 Make all fields mandatory to ensure all relevant information is provided. Limit the length for text fields and explicitly state that additional documents (CV, external document with longer answers, etc.) won't be taken into consideration for reviewing. This ensures equal treatment of all applications. 
 
 Make sure the server use and location comply with with data protection regulation.
 
-[Example of forms used previously](https://github.com/forwards/conferences/blob/master/DS_form.MD)
+[Example of forms used previously](https://github.com/forwards/conferences/blob/master/diversity_scholarship_form.md)
 
 <h4> Create coordinating/contact team </h4>
 
@@ -46,12 +46,14 @@ Appoint 2-3 people from the diversity team (and/or conference organizers) to han
 
 <h4> Create reviewing committee </h4>
 
-Around 10 people from the Forwards organization. Usually there are around
+Around 10 people from Forwards, R-Ladies, etc. Usually there are around
 150-200 applications, so 30-40 per reviewer.
 
 Examples of reviewers from past years: Anna Quaglieri, Augustina Ragwitz, Imke
 Mayer, Jennifer Thompson, Jonathan Godfrey, Julie Josse, Maëlle Salmon, Scott
-Chamberlain, Sina Rüeger
+Chamberlain, Sina Rüeger.
+
+It is helpful if the committee is diverse, reflecting the marginalized groups that are likely to apply.
 
 <h3> 2. During application phase </h3>
 
@@ -65,12 +67,12 @@ Every application will be evaluated by 2 committee members, using a 1-4 scale.
 
 * The reasons for scholarship request are compelling, based on description of their R background and potential impact on their community.
 
-* Are they from a country, region or area not typically represented at useR
+* Are they from a country, region or area not typically represented at useR!
 (Jill Waring and Noa Tamir have stats from 2016, 2017, 2019 attendance by
 	nation), or from an under-represented and/or historically marginalized group?
 
 * Applicant information provided through the form is verified by examining
-their public profile on twitter, github, R package authorship, R mailing lists,
+their public profile on twitter, GitHub, R package authorship, R mailing lists,
 via links provided by applicant.
 
 * Note: The requested amount of funding will vary and is not taken into account
@@ -79,7 +81,7 @@ for the evaluation.
 * Ideally give preference to individuals who have not been awarded DS in
  previous several years, but not a firm exclusion criteria, e.g., per Laura’s
  suggestion, some individuals may make continued and substantial contributions
- to R community, which would be worthwhile to recognize and support.
+ to the R community, which would be worthwhile to recognize and support.
 
 <h4> Summary scores </h4>
 
@@ -94,7 +96,7 @@ applications_
 forward, etc.)_
 
 4 - _ticks all the boxes (recommendation: favor the most marginalised
-groups/people - including disabilities - with least opportunity and/or those
+groups/people, e.g. disabled folk, with least opportunity and/or those
 that contribute a lot of volunteer time to the R community)_
 
 The final selection will be based on the average score (between the two
@@ -104,7 +106,7 @@ The final selection will be based on the average score (between the two
 <h3> 4. At useR! conference </h3>
 
 * Announce the DS welcome event as early as possible so that scholars can take
-their plane/train tickets to be able to attend it.
+their plane/train tickets to be able to attend it. Make sure they are aware of any pre-conference events, such as developer days, so they can attend if possible.
 
 * Example for the email to the scholars (including the newbie session details):
 > 	Dear Diversity Scholars,
@@ -228,55 +230,7 @@ association, that could help.
 
 <h2> Tips for applicants </h2>
 
-* Check whether the funder has a policy on awarding scholarships to people that
-attended under a scholarship previously, or who have had another scholarship
-in the past year.
-	+ If there is a clear exclusion and this applies to you, please sit this one
-	out, and allow someone else to have an opportunity for assistance.
-	+ Otherwise, disclose any scholarships as requested, but don't let previous
-	success hold you back from applying.
-
-* Be as specific as possible - don't make the reviewers guess or infer things.
-	+ For example, someone might put that their organization is XYZ Computing. But
-	 then they might not say what their job title is.  
-	+ Are they an intern? Are they a full-time employee?
-
-* Break down costs as much as possible.  
-	+ When looking for airfare, look for the cost for coach.  
-	+ Don't leave any costs out. Let the committee decide if the cost is
-	reasonable and can be covered by the scholarship. Costs won't be taken into
-	account during the reviewing/decision phase.
-
-* Give evidence of your commitment to the field/community. Demonstrate that this
-is a real interest and that you are in it for the long term, for example, for
-an R conference you might mention
-	+ R courses you have taken.
-	+ How you use R in your work.
-	+ Articles/blog posts where you have used R.
-	+ Contributions you have made to publicly available packages.
-	+ Involvement in R-ladies, an R User Group or other R-related initiative.
-
-* Explain how you will pay it forwards. How will you share what you have
-learned? Let the committee know how their investment in you will have a wider
-impact. For example, for an R conference you might
-	+ Commit to writing a blog post. Evidence of previously blogging about R would
-	 be an advantage.
-	+ Commit to live tweeting to share conference highlights with the R community.
-	 Evidence of doing this for previous conferences, or using your Twitter
-	 account to share insights about R would be an advantage.
-	+ Commit to presenting a talk or workshop at your workplace/R user group.
-	 Prior experience of giving such presentations would be an advantage.
-	+ Discuss how you hope to integrate new R developments into your courses.
-	+ Describe your existing mentoring roles and discuss how up-to-date knowledge
-	 of R would be beneficial in these roles.
-	+ Discuss how a specific conference tutorial will facilitate work in progress
-	 that will be shared with the community.
-
-* Make your application stand out by adding in some flavour about your personal
- journey in R. Without making your application too lengthy, paint the reader a
- picture of who you are, and why you deserve funding.
-	+ How did you get to this point?  
-	+ What is your motivation for applying?
+[Forwards tips for applicants](https://github.com/forwards/conferences/blob/master/diversity_scholarship_application_tips.md) can be shared on the conference website.
 
 <h2> FAQ </h2>
 
