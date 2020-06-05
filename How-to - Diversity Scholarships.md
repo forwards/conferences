@@ -151,7 +151,9 @@ applicants questions and coordinating the evaluation process (allocate
 applications to the diversity committee members, define evaluation standards
 together with Forwards team, collect the committee members' evaluations, manage
 the final selection process and communicate results to local organization
-committee).
+committee). Unsuccessful applicants will wish for some feedback - even 
+providing the numbers of submitted and successful applications can help 
+them understand why they missed out.
 
 <h3> Information use and storage </h3>
 
